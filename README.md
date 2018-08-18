@@ -9,3 +9,6 @@ node server.js
 ```
 And then load up your browser of choice and connect to localhost:3001.
 
+OR
+
+View the client only [heroku app](https://nameless-garden-38885.herokuapp.com/)

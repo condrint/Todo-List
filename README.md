@@ -4,6 +4,7 @@ Super simple todo list using React for client side and Node, Express, and Mongoo
 
 To start yourself
 ```
+npm install
 cd backend
 node server.js
 ```
